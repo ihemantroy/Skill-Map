@@ -1,0 +1,93 @@
+.e1
+{
+    width: 90px;
+    height: 50px;
+}
+p{
+    font-size: 18px;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-nav a{
+   color: #fff;
+}
+.mess
+{
+    line-height: 1.8;
+    font-weight: 400;
+    font-size:17px;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+/* ---------------------intro begins------------------------------------ */
+.intro
+{
+    width: 100%;
+    height: 85vh;
+}
+
+/* --------------------------Explore----------------------------------------- */
+.new
+{
+    margin-top: 30px;
+}
+.row
+{
+  gap: 30px; 
+  justify-content: center;
+
+}
+.h1
+{
+    padding-top: 10px;
+}
+.size
+{
+    margin-top: 10px;
+}
+/* -------------------------------------------dsa--------------------------------- */
+.new2
+{
+    margin-top: 40px;
+}
+/* --------------------------website------------------------------------------- */
+.website
+{
+    margin-top: 40px;
+}
+.f1
+{
+    padding-top: 20px;
+}
+/* -------------------------------skill-------------------------------- */
+.skil
+{
+    padding-top: 30px;
+}
+/* ---------------------------------css for small screen-------------------------- */
+@media only screen and (max-width: 600px)
+{
+    p 
+    {
+        font-size: 16px;
+    }
+    .phone
+    {
+        font-size: 16px;
+    }
+    .intro
+    {
+        width: 100%;
+        height: 50vh;
+    }
+    h3 
+    {
+        font-size: 18px;
+    }
+
+}
+
+ 
